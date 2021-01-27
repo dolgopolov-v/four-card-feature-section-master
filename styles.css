@@ -110,9 +110,11 @@ flex-basis: 300px;
 }
 
 @media (max-width: 1245px) {
+
 .supervisor, .calculator {
   transform: translateY(0);
 }
+
 .karma {
   order: 1;
 }
